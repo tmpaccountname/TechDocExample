@@ -10,4 +10,5 @@ test of lower case
 
 **Introduction to Doc Example**
 
-Second Example of a description for Doc Example
+Second Example of a description for Doc Example.
+Added this line
